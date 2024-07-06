@@ -31,7 +31,7 @@ The dataset consists of over 300 images of Indian license plates. We applied var
 1. **Clone the repository**:
 
     ```bash
-    git clone <repository_url>
+    git clone [<repository_url>](https://github.com/DhirajMuppineti/ANPR.git)
     ```
 
 2. **Install the required Python packages**:
